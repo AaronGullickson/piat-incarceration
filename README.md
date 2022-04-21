@@ -1,4 +1,4 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Incarceration and Poverty
 
 # Introduction
 
@@ -6,12 +6,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic: 
 
-Describe research topic
+In this research project, you will use data from a variety of sources to examine the relationship between incarceration rates in a state and the poverty rate. You will also examine how this relationship varies by which party controls the state government.
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. What is the relationship between a state's poverty rate and its incarceration rate?
+2. How does the relationship between a state's poverty and incarceration rates vary by which political party controls the state government.
 
 ## Technical Details
 
